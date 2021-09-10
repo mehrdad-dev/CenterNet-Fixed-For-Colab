@@ -26,9 +26,9 @@ You can use the blow options for change seeting:
 
 **Basic settings:**
 
-`task`: ctdet | ddd | multi_pose | exdet,  default='ctdet'
+`task`: ctdet, ddd, multi_pose, exdet,  default='ctdet'
 
-`--dataset`: coco | kitti | coco_hp | pascal, default='coco'
+`--dataset`: coco, kitti, coco_hp, pascal, default='coco'
 
 `--exp_id`: default='default'
 
