@@ -11,7 +11,7 @@
 
 \- 🤯 BAAM, yes!
 
-\+ 😎 Read [this doc](https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/) and then download [this jupyter notebook](), to run CenterNet pre-trained models (with different backbones) on your dataset!
+\+ 😎 Read [this doc](https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/) and then download [this jupyter notebook](https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/CenterNet-for-colab.ipynb), to run CenterNet pre-trained models (with different backbones) on your dataset!
  
 
 ## Official CenterNet repo
@@ -19,7 +19,7 @@
 
 
 ## Jupyter notebook
-For use CenterNet in google colab please download [this jupyter notebook]() and run it.
+For use CenterNet in google colab please download [this jupyter notebook](https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/CenterNet-for-colab.ipynb) and run it.
 
  ## Options
 You can use the blow options for change seeting:
