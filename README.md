@@ -13,8 +13,12 @@
 
 \+ 😎 Read [this doc](https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/) and then download [this jupyter notebook](), to run CenterNet pre-trained models (with different backbones) on your dataset!
  
--------- 
+
+## Official CenterNet repo
+[go to repo](https://github.com/xingyizhou/CenterNet)
 
 
+## Jupyter notebook
+For use CenterNet in google colab please download [this jupyter notebook]() and run it.
 
- 
+ ## Options
