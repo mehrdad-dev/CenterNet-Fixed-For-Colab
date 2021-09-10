@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/images/centernet-in-colab.png" alt="CenterNet Fixed For Google Colab, mehrdad mohammadian" style="width:550px;height:100px;"/>
+  <img src="https://raw.githubusercontent.com/mehrdad-dev/CenterNet-Fixed-For-Colab/main/images/centernet-in-colab.png" alt="CenterNet Fixed For Google Colab, mehrdad mohammadian" style="width:550px;height:100px;"/>
 </p>
 
 <div align=center> Object detection, 3D detection, and pose estimation using center point detection </div>
