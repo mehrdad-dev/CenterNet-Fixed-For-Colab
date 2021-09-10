@@ -21,6 +21,8 @@
 ## Jupyter notebook
 For use CenterNet in google colab please download [this jupyter notebook](https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/CenterNet-for-colab.ipynb) and run it.
 
+Note: Set your `Hardware accelerator` on GPU in colab.
+
  ## Options
 You can use the blow options for change seeting:
 
