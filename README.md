@@ -22,3 +22,26 @@
 For use CenterNet in google colab please download [this jupyter notebook]() and run it.
 
  ## Options
+You can use the blow options for change seeting:
+
+**Basic settings:**
+
+`task`: ctdet | ddd | multi_pose | exdet,  default='ctdet'
+
+`--dataset`: coco | kitti | coco_hp | pascal, default='coco'
+
+`--exp_id`: default='default'
+
+`--test`: store_true
+
+`--debug`:   default=0
+ - 1: only show the final detection results
+ - 2: show the network output features
+ - 3: use matplot to display 
+ - 4: save all visualizations to disk
+
+`--demo`: path to image/ image folders/ video or webcam
+
+`--load_model`: path to pretrained model
+
+`--resume`: resume an experiment. Reloaded the optimizer parameter and set load_model to model_last.pth in the exp dir if load_model is empty
