@@ -51,4 +51,4 @@ You can use the blow options for change seeting:
 
 ## Results
 
-See the [result.md](../result.md) for compare the diffrent backbones results.
+See the [results.md](../result.md) for compare the diffrent backbones results.
