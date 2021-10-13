@@ -14,8 +14,8 @@
 \+ 😎 Read [this doc](https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/) and then download [this jupyter notebook](https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/CenterNet-for-colab.ipynb), to run CenterNet pre-trained models (with different backbones) on your dataset!
  
 
-## Official CenterNet repo
-[go to repo](https://github.com/xingyizhou/CenterNet)
+## The Official CenterNet repo
+[go to the repo](https://github.com/xingyizhou/CenterNet)
 
 
 ## Jupyter notebook
@@ -50,3 +50,5 @@ You can use the blow options for change seeting:
 
 
 ## Results
+
+See the [result.md](../result.md) for compare the diffrent backbones results.
