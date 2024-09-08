@@ -11,7 +11,7 @@
 
 \- 🤯 BAAM, yes!
 
-\+ 😎 Read [this doc](https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/) and then download [this jupyter notebook](https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/CenterNet-for-colab.ipynb), to run CenterNet pre-trained models (with different backbones) on your dataset!
+\+ 😎 Download [this jupyter notebook](https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/blob/main/CenterNet-for-colab.ipynb), to run CenterNet pre-trained models (with different backbones) on your dataset!
  
 
 ## The Official CenterNet repo
@@ -52,13 +52,3 @@ You can use the blow options for change seeting:
 ## Results
 
 See the [results.md](./results.md) for compare the diffrent backbones results.
-
-
-## Buy me a coffee
-
-<a href="https://www.buymeacoffee.com/mehrdaddev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<a href="http://www.coffeete.ir/mehrdad-dev">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
-
